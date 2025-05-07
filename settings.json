@@ -1,5 +1,4 @@
 {
-    "workbench.colorTheme": "One Dark Pro Flat",
     "git.autofetch": true,
     "editor.fontFamily": "JetBrainsMono Nerd Font",
     "editor.fontLigatures": true,
@@ -21,10 +20,16 @@
     },
     "redhat.telemetry.enabled": false,
     "chat.commandCenter.enabled": true,
-    "workbench.productIconTheme": "a-file-icon-vscode-product-icon-theme",
+    "workbench.productIconTheme": "material-product-icons",
     "git.enableSmartCommit": true,
-    "workbench.iconTheme": "a-file-icon-vscode",
     "cursor-retrieval.canAttemptGithubLogin": false,
     "workbench.activityBar.orientation": "vertical",
-    "workbench.activityBar.location": "default"
+    "workbench.activityBar.location": "default",
+    "cursor.cpp.disabledLanguages": [
+      "plaintext",
+      "markdown",
+      "scminput"
+    ],
+    "workbench.colorTheme": "One Dark Pro Flat",
+    "workbench.iconTheme": "material-icon-theme"
   }
