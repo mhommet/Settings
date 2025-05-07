@@ -1,0 +1,30 @@
+{
+    "workbench.colorTheme": "One Dark Pro Flat",
+    "git.autofetch": true,
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "files.autoSave": "afterDelay",
+    "extensions.ignoreRecommendations": true,
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[php]": {
+      "editor.defaultFormatter": "junstyle.php-cs-fixer"
+    },
+    "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "redhat.telemetry.enabled": false,
+    "chat.commandCenter.enabled": true,
+    "workbench.productIconTheme": "a-file-icon-vscode-product-icon-theme",
+    "git.enableSmartCommit": true,
+    "workbench.iconTheme": "a-file-icon-vscode",
+    "cursor-retrieval.canAttemptGithubLogin": false,
+    "workbench.activityBar.orientation": "vertical",
+    "workbench.activityBar.location": "default"
+  }
